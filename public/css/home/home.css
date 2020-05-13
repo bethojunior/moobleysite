@@ -1,0 +1,7 @@
+.nav-header.col.s12 .nav-wrapper.row.col.s12{
+    background: rgb(42,179,74);
+    height: auto;
+}
+.nav-header.col.s12 .nav-wrapper.row.col.s12 .brand-logo.col.s2 img{
+    padding-top: 0.7vw;
+}
