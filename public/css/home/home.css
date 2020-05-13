@@ -1,7 +1,30 @@
 .nav-header.col.s12 .nav-wrapper.row.col.s12{
-    background: rgb(42,179,74);
+    background: var(--color-main);
     height: auto;
 }
 .nav-header.col.s12 .nav-wrapper.row.col.s12 .brand-logo.col.s2 img{
     padding-top: 0.7vw;
+}
+
+.parallax-container.mid-site .parallax img{
+    z-index: -999;
+}
+
+.parallax-container.mid-site .parallax .about{
+    z-index: 999;
+    color: var(--color-main);
+}
+.parallax-container.mid-site .parallax .about b.title{
+    font-size: 4.5vw;
+    text-align: right;
+    color: var(--color-main);
+}
+.parallax-container.mid-site .parallax .row.col.l12.about .col.l12{
+    text-align: right;
+    padding-right: 5vw;
+    padding-top: 5vw;
+}
+.parallax-container.mid-site .parallax .row.col.l12.about .col.l12 .sublinhado{
+    text-decoration: underline;
+    font-style: italic;
 }

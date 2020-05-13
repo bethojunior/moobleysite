@@ -1,7 +1,10 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato|Montserrat|Raleway" rel="stylesheet">
+<link href="{{ asset('assets/images/logo/icon.png') }}" rel="icon">
 <link rel="stylesheet" href="{{ asset('css/default/config.css') }}">
 <link rel="stylesheet" href="{{ asset('css/default/materialize.min.css') }}">
 <link rel="stylesheet" href="{{ asset('config/main.css') }}">
+
 
 <script src="{{ asset('config/main.js') }}"></script>
 <script src="{{ asset('js/libs/jquery.js') }}"></script>
@@ -14,3 +17,5 @@
 <script src="{{ asset('js/service/Init.js') }}"></script>
 <script src="{{ asset('js/utils/Mask.js') }}"></script>
 <script src="{{ asset('js/service/MainServices.js') }}"></script>
+
+@yield('content')
