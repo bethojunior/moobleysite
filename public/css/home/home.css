@@ -1,6 +1,12 @@
 .nav-header.col.s12 .nav-wrapper.row.col.s12{
     background: var(--color-main);
     height: auto;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    -webkit-box-shadow: 2px 3px 14px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 3px 14px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 3px 14px -2px rgba(0,0,0,0.75);
 }
 .nav-header.col.s12 .nav-wrapper.row.col.s12 .brand-logo.col.s2 img{
     padding-top: 0.7vw;
@@ -13,6 +19,10 @@
 .parallax-container.mid-site .parallax .about{
     z-index: 999;
     color: var(--color-main);
+}
+.parallax-container.mid-site.about-we .parallax .about{
+    z-index: 999;
+    color: white;
 }
 .parallax-container.mid-site .parallax .about b.title{
     font-size: 4.5vw;
@@ -27,4 +37,21 @@
 .parallax-container.mid-site .parallax .row.col.l12.about .col.l12 .sublinhado{
     text-decoration: underline;
     font-style: italic;
+}
+.flex-div.footer-copyright{
+    background: black;
+    color: white;
+    padding: 2vw;
+    padding-bottom: 5vw;
+    padding-top: 4vw;
+    justify-content: center;
+    align-items: center;
+}
+.flex-div.footer-copyright div.logo{
+    width: 10%;
+    cursor: pointer;
+}
+
+.flex-div.footer-copyright div.logo img{
+
 }
