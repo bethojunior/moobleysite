@@ -31,4 +31,9 @@
         margin-left: 1.5vw;
         margin-top: 2vw;
     }
+    .side-nav .user-view, .side-nav .userView {
+        padding: 16px 16px 0!important;
+        padding-bottom: 6vw!important;
+        padding-top: 9vw!important;
+    }
 }

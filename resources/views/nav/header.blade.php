@@ -20,7 +20,7 @@
 {{--                <img src="{{ asset('assets/images/logo/logo.png') }}">--}}
             </div>
             <div class="center">
-                <img width="100vw" class="responsive-img" src="{{ asset('assets/images/logo/logo.png') }}">
+                <img width="130vw" class="responsive-img" src="{{ asset('assets/images/logo/logo1.jpeg') }}">
             </div>
         </div></li>
     <li><div class="divider"></div></li>
