@@ -1,6 +1,7 @@
 $(".button-collapse").sideNav();
 
 elementProperty.addEventInElement('#share','onclick',function () {
+    alert('ok')
     if (navigator.share !== undefined) {
         navigator.share({
             title: document.getElementById('Moobley cash').innerHTML,
