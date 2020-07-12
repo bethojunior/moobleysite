@@ -2,6 +2,17 @@
 <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat|Raleway" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta name="theme-color" content="#2AB34B"/>
+
+<meta name="description" content=" Com o Moobley cash todos os seus pagamentos ficam muito mais simples e rápidos através de um único app." />
+<meta property="og:title" content="Moobley cash" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://moobley.madgic.com.br/" />
+<meta property="og:image" content="https://moobley.madgic.com.br/" />
+<meta property="og:description" content=" Com o Moobley cash todos os seus pagamentos ficam muito mais simples e rápidos através de um único app." />
+<meta property="og:site_name" content="https://moobley.madgic.com.br/" />
+
+
+
 <link href="{{ asset('assets/images/logo/icon.png') }}" rel="icon">
 <link rel="stylesheet" href="{{ asset('css/default/config.css') }}">
 <link rel="stylesheet" href="{{ asset('config/main.css') }}">

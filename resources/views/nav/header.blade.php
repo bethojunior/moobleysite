@@ -28,6 +28,7 @@
     <li><a href="/business">Empresa</a></li>
     <li><a href="/how" class="waves-effect">Como funciona</a></li>
     <li><a class="waves-effect" href="#!">Para seu negócio</a></li>
+    <li><a id="share" class="waves-effect" href="#!">Compartilhar</a></li>
 </ul>
 <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
 
