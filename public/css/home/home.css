@@ -63,13 +63,13 @@
         position: relative;
     }
     .parallax-container.mid-site.with-logo .parallax .icon{
-        position: absolute;
-        bottom: 0;
-        display: block;
-        left: 0;
-        transform: rotate(-20deg);
-        margin-left: -62vw;
-        margin-bottom: -21vw;
+        /*position: absolute;*/
+        /*bottom: 0;*/
+        /*display: block;*/
+        /*left: 0;*/
+        /*transform: rotate(-20deg);*/
+        /*margin-left: -62vw;*/
+        /*margin-bottom: -21vw;*/
     }
     .parallax-container.mid-site .parallax .about {
         z-index: 999;
