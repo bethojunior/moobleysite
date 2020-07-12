@@ -1,5 +1,5 @@
 $(".button-collapse").sideNav();
-let elementProperty = new ElementProperty();
+
 elementProperty.addEventInElement('#share','onclick',function () {
     if (navigator.share !== undefined) {
         navigator.share({
