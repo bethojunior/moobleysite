@@ -29,6 +29,9 @@ body{
 :root{
     --color-main : rgb(42,179,74);
 }
+.color-main{
+    color: var(--color-main)!important;
+}
 .color-white{
     color: white;
 }

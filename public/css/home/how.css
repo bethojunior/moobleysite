@@ -1,0 +1,62 @@
+.row.general.col.l12.s12 header.row.col.l12.s12{
+    background-image: url(/assets/images/icons/your-account.jpg);
+    height: 100%;
+    background-size: cover;
+}
+.row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header{
+    margin-top: 10vw;
+    padding-left: 4vw;
+}
+.row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header p b.title{
+    color: var(--color-main);
+    font-size: 3vw;
+}
+.row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about{
+
+}
+.row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .first{
+    padding-left: 8vw;
+    border-right: 1px solid var(--color-main);
+}
+.row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .col.l6 .center .color-main{
+    font-size: 2vw;
+}
+.row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .col.l6 .center label{
+    font-size: 1vw;
+    color: var(--color-main);
+    font-weight: bold;
+}
+.row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .col.l6 .center img{
+    width: 10vw;
+}
+
+@media (max-width: 992px) {
+    .row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header{
+        margin-top: 10vw;
+        padding-left: 4vw;
+    }
+    .row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header p b.title{
+        color: var(--color-main);
+        font-size: 7vw;
+    }
+    .row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about{
+
+    }
+    .row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .col.l6 .center .color-main{
+        font-size: 5vw;
+    }
+
+    .row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .col.l6 .center img{
+        width: 20vw;
+    }
+    .row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .first{
+        padding-left: 8vw;
+        border: none;
+    }
+
+    .row.general.col.l12.s12 header.row.col.l12.s12 .col.l8.s12 header .about .col.l6 .center label{
+        font-size: 3vw;
+        color: var(--color-main);
+        font-weight: bold;
+    }
+}
