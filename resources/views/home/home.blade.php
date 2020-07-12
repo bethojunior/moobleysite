@@ -16,12 +16,12 @@
                 <div class="col l12 ">
                     <b class="title">Sobre <span class="sublinhado">Nós</span></b>
                     <p class="body">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
-                        Nulla ut dui quis diam posuere pharetra. Nunc varius massa a scelerisque mollis. <br>
-                        Duis vel mi at orci placerat interdum vitae ac arcu. Ut suscipit arcu a nisi faucibus, <br> in convallis odio placerat.<br>
-                        Class aptent taciti sociosqu ad litora torquent per conubia nostra,<br> per inceptos himenaeos.<br>
-                        Quisque fermentum ultricies maximus. Fusce viverra molestie consectetur.<br>
-                        Quisque mattis augue arcu, at blandit sem commodo eu.
+                        Nascemos em 2019 com missão de revolucionar <br> os meios de pagamentos digitais<br> entre pessoas e empresas. <br>
+                        Com um novo conceito, fazendo com que você ganhe dinheiro com gente indicando amigos.<br>
+                        Somos uma Fintech e criamos uma plataforma de negócios mobile com dupla atuação, <br>
+                        Mobilidade urbana e pagamentos digitais,<br>
+                        criada para ser essencial na vida das pessoas!<br>
+                        Esse propósito nos guia todos os dias.
                     </p>
                 </div>
             </div>
@@ -35,12 +35,16 @@
                 <div class="col l12 ">
                     <b class="title">Missão e <span class="sublinhado">visão</span></b>
                     <p class="body">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
-                        Nulla ut dui quis diam posuere pharetra. Nunc varius massa a scelerisque mollis. <br>
-                        Duis vel mi at orci placerat interdum vitae ac arcu. Ut suscipit arcu a nisi faucibus, <br> in convallis odio placerat.<br>
-                        Class aptent taciti sociosqu ad litora torquent per conubia nostra,<br> per inceptos himenaeos.<br>
-                        Quisque fermentum ultricies maximus. Fusce viverra molestie consectetur.<br>
-                        Quisque mattis augue arcu, at blandit sem commodo eu.
+                        O Moobley Cash nasceu com a Missão de desburocratizar <br>
+                        o seu acesso a serviços financeiros e facilitar seu deslocamento no dia a dia,<br>
+                        contribuindo com a qualidade de vida, <br>
+                        proporcionando renda e oportunidade de negócios. <br>
+                        Nossa visão e ser uma das melhores empresa de tecnologia em serviços <br>
+                        de pagamentos digitais e mobilidade. <br>
+                        E é por isso que nosso aplicativo foi criado para refletir tudo que acreditamos. <br>
+                        Com ele, você tem uma experiência transparente, <br>
+                        simples e justa. <br>
+                        Como sempre deveria ter. <br>
                     </p>
                 </div>
             </div>
