@@ -55,3 +55,37 @@
 .flex-div.footer-copyright div.logo img{
 
 }
+@media (max-width: 992px) {
+    .nav-header.col.s12{
+        display: none!important;
+    }
+    .parallax-container.mid-site.with-logo{
+        position: relative;
+    }
+    .parallax-container.mid-site.with-logo .parallax .icon{
+        position: absolute;
+        bottom: 0;
+        display: block;
+        left: 0;
+        transform: rotate(-20deg);
+        margin-left: -62vw;
+        margin-bottom: -21vw;
+    }
+    .parallax-container.mid-site .parallax .about {
+        z-index: 999;
+        color: var(--color-main);
+        right: 0;
+        position: absolute;
+    }
+    .flex-div.footer-copyright{
+        background: black;
+        color: white;
+        padding: 2vw;
+        padding-bottom: 5vw;
+        padding-top: 4vw;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        bottom: 0;
+    }
+}
