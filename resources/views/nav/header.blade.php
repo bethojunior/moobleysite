@@ -22,8 +22,8 @@
             <a href="#!user"><img class="responsive-img" src="{{ asset('assets/images/logo/logo.png') }}"></a>
         </div></li>
     <li><div class="divider"></div></li>
-    <li><a href="#!">Inicio</a></li>
-    <li><a href="#!">Empresa</a></li>
+    <li><a href="/">Inicio</a></li>
+    <li><a href="/business">Empresa</a></li>
     <li><a class="waves-effect">Como funciona</a></li>
     <li><a class="waves-effect" href="#!">Para seu negócio</a></li>
 </ul>

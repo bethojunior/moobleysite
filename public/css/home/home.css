@@ -55,21 +55,9 @@
 .flex-div.footer-copyright div.logo img{
 
 }
-.button-collapse{
-    display: none!important;
-}
 
 @media (max-width: 992px) {
-    .button-collapse{
-        display: block!important;
-        position: fixed;
-        z-index: 999;
-        background: var(--color-main);
-        color: white;
-        border-radius: 1vw;
-        margin-left: 1.5vw;
-        margin-top: 2vw;
-    }
+
     .nav-header.col.s12{
         display: none!important;
     }

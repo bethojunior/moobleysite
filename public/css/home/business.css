@@ -1,0 +1,67 @@
+.row.general.col.l12.s12{
+    margin-top: 2vw;
+}
+.row.general.col.l12.s12 .col.l12.s12.center{
+    color: var(--color-main);
+    font-weight: bold;
+    font-size: 3vw;
+    padding-bottom: 3vw;
+}
+.row.general.col.l12.s12 .col.l12 .center.title{
+    height: 10vw;
+}
+.row.general.col.l12.s12 .col.l12 .center b.title{
+    color: var(--color-main);
+    font-size: 2vw;
+    font-weight: bold;
+}
+.row.general.col.l12.s12 .col.l12 .center.subtitle{
+    height: 7vw;
+}
+.row.general.col.l12.s12 .col.l12 .center .subtitle{
+    font-size: 1.5vw;
+}
+.row.general.col.l12.s12 .col.l12 .center.buttons{
+    padding-top: 2vw;
+}
+.row.general.col.l12.s12 .col.l12 .center.buttons button{
+    border-radius: 2vw;
+    background: var(--color-main);
+}
+.row.general.col.l12.s12 .row.col.l12 .col.l6.s12.first .center img , .row.general.col.l12.s12 .row.col.l12 .col.l6.s12.second .center img{
+    width: 10vw;
+    padding-bottom: 3vw;
+}
+.row.general.col.l12.s12 .row.col.l12 .col.l6.s12.first{
+    border-right: solid 1px black;
+    height: 35vw;
+}
+
+
+@media (max-width: 992px) {
+    .row.general.col.l12.s12 .row.col.l12 .col.l6.s12.first{
+        margin-top: 10vw;
+        margin-bottom: 30vw;
+        border: none;
+    }
+    .row.general.col.l12.s12 .row.col.l12 .col.l6.s12.first .center img , .row.general.col.l12.s12 .row.col.l12 .col.l6.s12.second .center img{
+        width: 20vw;
+        padding-bottom: 3vw;
+    }
+    .row.general.col.l12.s12 .col.l12 .center b.title{
+        color: var(--color-main);
+        font-size: 5vw;
+        font-weight: bold;
+    }
+    .row.general.col.l12.s12 .col.l12 .center.title{
+        height: auto;
+    }
+    .row.general.col.l12.s12 .col.l12 .center.subtitle{
+        height: auto;
+        padding-bottom: 2vw;
+    }
+    .row.general.col.l12.s12 .col.l12 .center .subtitle{
+        font-size: 3vw;
+    }
+
+}

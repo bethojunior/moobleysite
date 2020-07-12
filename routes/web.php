@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/business', function () {
-    return view('home.business')->name('business');
+    return view('home.business');
 });
