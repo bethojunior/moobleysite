@@ -4,8 +4,9 @@
 <meta name="theme-color" content="#2AB34B"/>
 <link href="{{ asset('assets/images/logo/icon.png') }}" rel="icon">
 <link rel="stylesheet" href="{{ asset('css/default/config.css') }}">
-<link rel="stylesheet" href="{{ asset('css/default/materialize.min.css') }}">
 <link rel="stylesheet" href="{{ asset('config/main.css') }}">
+<link rel="stylesheet" href="{{ asset('nav/nav.css') }}">
+<link rel="stylesheet" href="{{ asset('css/default/materialize.min.css') }}">
 
 
 <script src="{{ asset('config/main.js') }}"></script>

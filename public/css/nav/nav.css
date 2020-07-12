@@ -1,0 +1,8 @@
+.button-collapse{
+    display: none!important;
+}
+@media (max-width: 992px) {
+    .button-collapse{
+        display: block!important;
+    }
+}

@@ -55,7 +55,14 @@
 .flex-div.footer-copyright div.logo img{
 
 }
+.button-collapse{
+    display: none!important;
+}
+
 @media (max-width: 992px) {
+    .button-collapse{
+        display: block!important;
+    }
     .nav-header.col.s12{
         display: none!important;
     }
