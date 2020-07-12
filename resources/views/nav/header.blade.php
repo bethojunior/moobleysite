@@ -19,7 +19,9 @@
             <div class="background">
 {{--                <img src="{{ asset('assets/images/logo/logo.png') }}">--}}
             </div>
-            <a href="#!user"><img class="responsive-img" src="{{ asset('assets/images/logo/logo.png') }}"></a>
+            <div class="center">
+                <img width="100vw" class="responsive-img" src="{{ asset('assets/images/logo/logo.png') }}">
+            </div>
         </div></li>
     <li><div class="divider"></div></li>
     <li><a href="/">Inicio</a></li>
